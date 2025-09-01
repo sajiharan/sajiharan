@@ -1,6 +1,6 @@
 Hi👋👋 I'm Sajiharan..😄😄</br>
 🧑‍💻🧑‍💻 I'm a computer science student </br>
-Tech Enthusiastic🧑‍💻🧑‍💻🛜<>/br
+Tech Enthusiastic🧑‍💻🧑‍💻🛜</br>
 
 🛹Interested in IoT projects..🛜</br>
 🤖🤖Python developer..</br>
